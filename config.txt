@@ -1,0 +1,6 @@
+﻿token=YourTokenInHere
+owner=YourOwnerID
+prefix=^
+game=^help | 0.1.0
+status=IDLE
+songinstatus=false
